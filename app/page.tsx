@@ -23,7 +23,7 @@ export default function Home() {
         better browsing experience. Please check back soon for our new and
         improved website.
       </p>
-      <small className="text-gray-600">Copyright &#64; 2023. Peerdesk</small>
+      {/* <small className="text-gray-600">Copyright &#64; 2023. Peerdesk</small> */}
     </main>
   );
 }
