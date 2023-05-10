@@ -17,13 +17,13 @@ export default function Home() {
         />
       </div>
       <p className="text-center">
-        Thank you for visiting our website! We're currently making some updates
+        Thank you for visiting our website! We are currently making some updates
         and improvements to better serve you. We apologize for any inconvenience
         this may cause and appreciate your patience as we work to bring you a
         better browsing experience. Please check back soon for our new and
         improved website.
       </p>
-      {/* <small className="text-gray-600">Copyright &#64; 2023. Peerdesk</small> */}
+      <small className="text-gray-600">Copyright &#64; 2023. Peerdesk</small>
     </main>
   );
 }
